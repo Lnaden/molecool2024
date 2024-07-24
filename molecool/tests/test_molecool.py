@@ -4,6 +4,7 @@ Unit and regression test for the molecool package.
 
 # Import package, test suite, and other packages as needed
 import sys
+import numpy as np
 
 import pytest
 

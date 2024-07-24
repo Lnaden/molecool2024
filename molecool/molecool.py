@@ -16,6 +16,10 @@ def canvas(with_attribution=True):
     -------
     quote : str
         Compiled string including quote and optional attribution.
+
+
+    .. math:: \\vec{R}=\\frac{1}{M} \\sum_{i=1}^{n} m_{i}\\vec{r_{}i}
+
     """
 
     quote = "The code is but a canvas to our imagination."

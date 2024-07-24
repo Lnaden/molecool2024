@@ -10,8 +10,10 @@ dependencies:
   - pip
   
   - pydata-sphinx-theme
-  - sphinx-design
+  - sphinx-design  # pip install sphinx_design
   - sphinx-copybutton
+
+  # make html
 
 
 
